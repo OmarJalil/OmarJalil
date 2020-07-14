@@ -1,4 +1,4 @@
-![My gif](gif.gif)
+![My gif](https://github.com/OmarJalil/OmarJalil/blob/master/gif.gif)
 
 <!--
 **OmarJalil/OmarJalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
